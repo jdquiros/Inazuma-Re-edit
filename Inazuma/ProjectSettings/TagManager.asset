@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint
+  - Ladder
+  - Spike
+  - Enemy
+  - HealthBarParent
+  - EnemyProjectile
+  - Goal
+  - SceneController
+  - HittableObject
+  - ZoomZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - groundLayer
+  - oneWayLayer
+  - triggerLayer
+  - enemyLayer
+  - attackLayer
+  - grappleLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3337721631
+    locked: 0
+  - name: Behind
+    uniqueID: 56408781
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3574483463
+    locked: 0
+  - name: Front
+    uniqueID: 495656493
+    locked: 0

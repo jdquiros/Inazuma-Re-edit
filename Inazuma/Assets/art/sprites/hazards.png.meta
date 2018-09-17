@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 69410c0ba2aba9045a035fb1a449cd0d
+timeCreated: 1516755046
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hazards_0
+    21300002: hazards_1
+    21300004: hazards_2
+    21300006: hazards_3
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hazards_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -6}
+        - {x: 16, y: -6}
+        - {x: 11, y: -25}
+        - {x: 10, y: -35}
+        - {x: 5, y: -20}
+        - {x: -4, y: -16}
+        - {x: -33, y: -8}
+        - {x: -44, y: -6}
+        - {x: -52, y: -6}
+        - {x: -57, y: -21}
+        - {x: -64, y: -49}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -44}
+        - {x: 57, y: -9}
+      physicsShape:
+      - - {x: 50.58232, y: -32.784668}
+        - {x: -52.329224, y: -32.8479}
+        - {x: -56.00612, y: -64}
+        - {x: 56.982285, y: -64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hazards_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 54}
+        - {x: 44, y: 58}
+        - {x: -64, y: 58}
+        - {x: -64, y: -2}
+        - {x: 64, y: -2}
+        - {x: 64, y: 19}
+        - {x: 54, y: 52}
+      physicsShape:
+      - - {x: -50.32431, y: 30.736877}
+        - {x: -55.432068, y: 0.12658691}
+        - {x: 54.873566, y: 0.12652588}
+        - {x: 52.23694, y: 31.993713}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hazards_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 46}
+        - {x: -53, y: 13}
+        - {x: -51, y: 11}
+        - {x: -48, y: 11}
+        - {x: -44, y: 15}
+        - {x: -42, y: 25}
+        - {x: -23, y: 7}
+        - {x: -15, y: 10}
+        - {x: -11, y: 25}
+        - {x: -10, y: 35}
+        - {x: -5, y: 20}
+        - {x: 4, y: 15}
+        - {x: 33, y: 8}
+        - {x: 43, y: 6}
+        - {x: 53, y: 6}
+        - {x: 60, y: 20}
+        - {x: 64, y: 46}
+        - {x: 64, y: 64}
+      physicsShape:
+      - - {x: -55.428177, y: 64}
+        - {x: -50.38351, y: 31.911133}
+        - {x: 49.64032, y: 31.621399}
+        - {x: 54.49475, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hazards_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -19}
+        - {x: -54, y: -52}
+        - {x: -47, y: -54}
+        - {x: -39, y: -58}
+        - {x: 57, y: -58}
+        - {x: 64, y: -21}
+        - {x: 64, y: 2}
+        - {x: -64, y: 2}
+      physicsShape:
+      - - {x: -50.64032, y: -31.20575}
+        - {x: 51.743195, y: -31.20575}
+        - {x: 54.143143, y: -0.4029541}
+        - {x: -56.96286, y: -0.45715332}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
